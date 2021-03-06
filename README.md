@@ -1,6 +1,6 @@
-#Tips  
-##English  
-###how to use  
+# Tips  
+## English  
+### how to use  
 source file : config_proc.cpp / config_proc.h   
 step1. includ the head file : #include <config_proc.h>. Add xml lib to your project at *.pro like this : QT += xml   
 step2. new a class in MainWindow class : ConfigProc *config_ = new ConfigProc(this);   
@@ -26,6 +26,6 @@ install Qt Creator->Generate exe executable file -> copy exe file to another dir
 linux:  
 install Qt Creator->Generate exe executable file -> copy exe file to another dir -> linuxdeployqt package dynamic library needed, -> pack dep/rpm
 
-##中文  
-###使用  
+## 中文  
+### 使用  
 参见 bolg   
