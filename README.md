@@ -28,9 +28,4 @@ install Qt Creator->Generate exe executable file -> copy exe file to another dir
 
 ##中文  
 ###使用  
-参见 bolg 
-QT 打包  
-windows:  
-安装Qt Creator 生成exe可执行文件，另存，windeployqt 打包动态库，Enigma_Virtual_Box 封包发布  
-linux:  
-安装Qt Creater 生成可执行文件， 另存， linuxdeployqt 打包动态库， 封包dep/rpm  
+参见 bolg   
